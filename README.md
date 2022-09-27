@@ -2,6 +2,7 @@
 
 I am a third year integrated masters student studying physics at the University of Manchester.
 
+Email: ellis.huntley@student.manchester.ac.uk
 
 <!--
 **ellishuntley/ellishuntley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
