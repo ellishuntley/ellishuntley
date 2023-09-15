@@ -1,6 +1,6 @@
 ### Hi, I'm Ellis 👋
 
-I am a third year integrated masters student studying physics at the University of Manchester.
+I am a fourth year integrated masters student studying physics at the University of Manchester.
 
 Email: ellis.huntley@student.manchester.ac.uk
 
