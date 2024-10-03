@@ -1,8 +1,6 @@
 ### Hi, I'm Ellis 👋
 
-I am a fourth year integrated masters student studying physics at the University of Manchester.
-
-Email: ellis.huntley@student.manchester.ac.uk
+I am a University of Manchester graduate with a First-Class Masters in Physics.
 
 <!--
 **ellishuntley/ellishuntley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
