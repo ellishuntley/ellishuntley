@@ -1,6 +1,6 @@
 ### Hi, I'm Ellis 👋
 
-I am a postgraduate researcher at the University of Manchester in studying condensed matter physics.
+I am a postgraduate researcher at the University of Manchester in condensed matter physics.
 
 <!--
 **ellishuntley/ellishuntley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
